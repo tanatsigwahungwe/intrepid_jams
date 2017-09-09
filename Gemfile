@@ -25,6 +25,7 @@ gem "suspenders"
 gem "title"
 gem "uglifier"
 gem "active_model_serializers", "0.8.3"
+gem "rails_12factor"
 
 
 group :development do
